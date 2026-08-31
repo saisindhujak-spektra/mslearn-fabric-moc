@@ -81,7 +81,7 @@ Now that you have a workspace, download the data file for analysis. Using *Kusto
 
 1. When the new eventhouse has been created, right-click on it **(1)**, select the option **Get data (2)**, then **Local file (3)**. 
 
-    ![Screenshot of selected Fabric Experience home with RTA selected](./Images/E1T3S6.png)
+    ![](./Images/E1T3S5-3.png)
 
 1. Then use the wizard to import the data into a new table by selecting the following options: 
 
@@ -125,8 +125,8 @@ Now that you have a table of data in your database, you can use KQL code to quer
    ![](./Images/L1T3S1.png)
 
    >**Note:** If you are unable to see the sales table, please zoom out a little in the browser window inside the labvm and check.
-
-      ![](./Images/zoomout-2611.png)
+   >
+   >    ![](./Images/zoomout-2611.png)
 
 1. A new pane will open with the query and its result. 
 
