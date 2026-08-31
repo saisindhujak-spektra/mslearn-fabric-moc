@@ -53,7 +53,7 @@ Now that you have a workspace, it's time to switch to the *Data science* experie
 
    ![](./Images/L2T1S6-2611.png)
 
-1. After the file is **uploaded (3)**, close the tab by **clicking (4)**.
+1. After the file is **uploaded (1)**, close the tab by clicking **X** **(2)**.
 
    ![](./Images/E2T1S6-2.png)
 
